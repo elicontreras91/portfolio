@@ -9,34 +9,36 @@
 ## Projects
 ### Nombre del proyecto 1
 #### Skills involucrados: análisis descriptivo, visualización, etc
-#### Objetivo
-#### Recolección de datos
+#### Objetivo:
+#### Recolección de datos:
 - Fuente
 - Recolección
 - Limpieza
-#### Análisis
+  
+#### Análisis:
 - Técnicas aplicadas
 - Limitaciones y dificultades
   
-#### Resultados
+#### Resultados:
 
-#### Decisiones tomadas a partir de los hallazgos
+#### Decisiones tomadas a partir de los hallazgos:
 
-#### Herramientas visuales
+#### Herramientas visuales:
 
 ### Nombre del proyecto 2
 #### Skills involucrados: análisis descriptivo, visualización, etc
-#### Objetivo
-#### Recolección de datos
+#### Objetivo:
+#### Recolección de datos:
 - Fuente
 - Recolección
 - Limpieza
-#### Análisis
+  
+#### Análisis:
 - Técnicas aplicadas
 - Limitaciones y dificultades
   
-#### Resultados
+#### Resultados:
 
-#### Decisiones tomadas a partir de los hallazgos
+#### Decisiones tomadas a partir de los hallazgos:
 
-### Herramientas visuales
+#### Herramientas visuales:
