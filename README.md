@@ -7,16 +7,37 @@
 - B.S., Political Science and Government | Pontifical Catholic University of Peru (_2014_)
 
 ## Projects
-### Nombre del proyecto
-### Skills involucrados: análisis descriptivo, visualización, etc
-### Objetivo
-### Recolección de datos
+
+### Nombre del proyecto 1
+#### Skills involucrados: análisis descriptivo, visualización, etc
+#### Objetivo
+#### Recolección de datos
 - Fuente
 - Recolección
 - Limpieza
-### Análisis
+#### Análisis
 - Técnicas aplicadas
 - Limitaciones y dificultades
-### Resultados
-### Decisiones tomadas a partir de los hallazgos
+  
+#### Resultados
+
+#### Decisiones tomadas a partir de los hallazgos
+
+#### Herramientas visuales
+
+### Nombre del proyecto 2
+#### Skills involucrados: análisis descriptivo, visualización, etc
+#### Objetivo
+#### Recolección de datos
+- Fuente
+- Recolección
+- Limpieza
+#### Análisis
+- Técnicas aplicadas
+- Limitaciones y dificultades
+  
+#### Resultados
+
+#### Decisiones tomadas a partir de los hallazgos
+
 ### Herramientas visuales
