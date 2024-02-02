@@ -7,7 +7,6 @@
 - B.S., Political Science and Government | Pontifical Catholic University of Peru (_2014_)
 
 ## Projects
-
 ### Nombre del proyecto 1
 #### Skills involucrados: análisis descriptivo, visualización, etc
 #### Objetivo
