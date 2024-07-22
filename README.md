@@ -1,10 +1,15 @@
-# Data Analyst
+# Data Scientist
 
 #### Technical Skills: SQL, Power Bi, SPSS, MS Excel
 
 ## Education
 - M.S., Government and Public Policy | Pontifical Catholic University of Peru (_2021_)								       		 		
 - B.S., Political Science and Government | Pontifical Catholic University of Peru (_2014_)
+
+## Relevant digital platforms and products
+- Alerta contra el racismo
+- Facilita
+- Matrícula Digital 
 
 ## Projects
 ### Trámites y canales de atención municipales
