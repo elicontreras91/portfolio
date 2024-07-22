@@ -1,4 +1,4 @@
-# Researcher & data Scientist
+# Researcher & data scientist
 
 ## Education
 - M.S., Government and Public Policy | Pontifical Catholic University of Peru (_2021_)								       		 		
