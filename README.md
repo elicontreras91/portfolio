@@ -1,21 +1,34 @@
-# Data Scientist
-
-#### Technical Skills: SQL, Power Bi, SPSS, MS Excel
+# Researcher & data Scientist
 
 ## Education
 - M.S., Government and Public Policy | Pontifical Catholic University of Peru (_2021_)								       		 		
 - B.S., Political Science and Government | Pontifical Catholic University of Peru (_2014_)
 
-## Relevant digital platforms and products
-- Alerta contra el racismo
-- Facilita
-- Matrícula Digital 
-
 ## Projects
-### Trámites y canales de atención municipales
-#### Skills involucrados: limpieza de información, visualización, análisis descriptivo
-#### Objetivo:
-Describir los trámites atendidos y canales de atención ofrecidos por las municipalidades en Perú para la identificación de oportunidades de digitalización en la Subsecretaria de Servicios e innovación digital (PCM) entre el 2020 y 2022.
+### 1. Identifying Digitalization Opportunities in Peru's local government
+#### Summary: 
+The Secretary of Government and Digital Transformation is a public entity responsible for the country's digital transformation to improve citizen's lifes through innovative digital products and services. The objective of this project was to discover opportunities to design and develop new products based on evidence. 
+
+#### What I did: 
+In order to start this exploration I selected an avaiable and public dataset about local government called the [National Registry of Municipalities (RENAMU)](https://www.datosabiertos.gob.pe/dataset/registro-nacional-de-municipalidades-renamu-2022-instituto-nacional-de-estad%C3%ADstica-e), which consist on a national-base survey about different topics about municipalities management and tools. Next, I validated this selection with the stakeholders and once I have and approval, I started the analysis process based on a four steps process:
+
+- Download the dataset and the survey questionnaire to understand and select the avaiable tables and questions
+- Explore the selected tables and questions and create a common ID
+- Conduct an exploratory analysis in SPSS to answer some business questions such as: what are the main procedures demmand by citizens that could be digitalize in municipalities? how often do municipalities use digital platforms
+- Design, elaborate and validate a dashbord on Power-Bi to understand the status about municipalities procedures. 
+![Exploratory analysis](images/dashboard.png)
+
+#### Tools & skills:
+### Technical skills:
+- Excel and CSV to clean and explore data
+- SPSS to perform the stadistical exploratory analysis
+- Power BI to summarize the main questions needed by stakeholders on a visual manner
+
+### Soft skills:
+- Communication with stakeholdersto understand their needs
+- Attention to detail when performing the analysis and finding patterns
+
+-------
 #### Recolección de datos y consistencia:
 - Fuente: [Registro Nacional de Municipalidades (RENAMU), 2020-2022, del Instituto Nacional de Estadística e Informática](https://proyectos.inei.gob.pe/microdatos/Detalle_Encuesta.asp?CU=19558&CodEncuesta=730&CodModulo=1590&NombreEncuesta=Registro+Nacional+de+Municipalidades+-+RENAMU&NombreModulo=Competencias+y+Funciones+de+la+Municipalidad)
 - Número de registros: El total de 1874 municipalidades distritales y provinciales del Perú
