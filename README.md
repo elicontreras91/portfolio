@@ -5,59 +5,49 @@
 - B.S., Political Science and Government | Pontifical Catholic University of Peru (_2014_)
 
 ## Projects
-### 1. Identifying Digitalization Opportunities in Peru's local government
+### 2023: Identifying Digitalization Opportunities in Peru's local government
+#### _Client: Secretary of Government and Digital Transformation_
 #### Summary: 
 The Secretary of Government and Digital Transformation is a public entity responsible for the country's digital transformation to improve citizen's lifes through innovative digital products and services. The objective of this project was to discover opportunities to design and develop new products based on evidence. 
 
-#### What I did: 
-In order to start this exploration I selected an avaiable and public dataset about local government called the [National Registry of Municipalities (RENAMU)](https://www.datosabiertos.gob.pe/dataset/registro-nacional-de-municipalidades-renamu-2022-instituto-nacional-de-estad%C3%ADstica-e), which consist on a national-base survey about different topics about municipalities management and tools. Next, I validated this selection with the stakeholders and once I have and approval, I started the analysis process based on a four steps process:
+   ![citizen carrying out procedures at the municipality](images/trámites.png)
 
-- Download the dataset and the survey questionnaire to understand and select the avaiable tables and questions
-- Explore the selected tables and questions and create a common ID
-- Conduct an exploratory analysis in SPSS to answer some business questions such as: what are the main procedures demmand by citizens that could be digitalize in municipalities? how often do municipalities use digital platforms
-- Design, elaborate and validate a dashbord on Power-Bi to understand the status about municipalities procedures. 
-![Exploratory analysis](images/dashboard.png)
+#### What I did: 
+In order to start this exploration I selected an avaiable and public dataset about local government called the [National Registry of Municipalities (RENAMU)](https://www.datosabiertos.gob.pe/dataset/registro-nacional-de-municipalidades-renamu-2022-instituto-nacional-de-estad%C3%ADstica-e), which consist on a national-base survey about different topics about local management and tools on  1874 municipalities. Next, I validated this selection with the stakeholders and once I have and approval, I started the analysis process based on a four steps process:
+
+- Download the dataset and the survey questionnaire to understand the data and to select the avaiable and relevant tables and questions
+- Explore the selected tables and questions and create a common ID to join tables by an ID
+- Conduct an exploratory analysis in SPSS to answer some business questions such as: what are the main procedures demmand by citizens that could be digitalize in municipalities? how often do municipalities use digital platforms?
+    - [Findings report](https://drive.google.com/file/d/14tWgj-NUiqFxhSTZHdzvWQJc05DTht1F/view?usp=sharing)
+    - [Data dictionary](https://docs.google.com/spreadsheets/d/150IxhbslOilE_80mSjkCfu7En3vzXFXO/edit?usp=sharing&ouid=106305285872469110916&rtpof=true&sd=true)
+    - [Powerpoint presentation](https://docs.google.com/presentation/d/15B9vGfa4qRsFQCjUAbdC8mZ9UnpXeAc6/edit?usp=sharing&ouid=106305285872469110916&rtpof=true&sd=true),
+- Design, elaborate and validate a dashbord on Power-Bi to understand the status about municipalities procedures.
+  
+    ![Exploratory analysis](images/dashboard.png)
 
 #### Tools & skills:
-### Technical skills:
-- Excel and CSV to clean and explore data
-- SPSS to perform the stadistical exploratory analysis
-- Power BI to summarize the main questions needed by stakeholders on a visual manner
+##### Technical skills:
+- Cleaning and data exploration with Excel
+- Stadistical exploratory analysis with SPSS
+- Data visualization with Power BI
 
-### Soft skills:
-- Communication with stakeholdersto understand their needs
+##### Soft skills:
+- Communication with stakeholders to understand their needs
 - Attention to detail when performing the analysis and finding patterns
 
--------
-#### Recolección de datos y consistencia:
-- Fuente: [Registro Nacional de Municipalidades (RENAMU), 2020-2022, del Instituto Nacional de Estadística e Informática](https://proyectos.inei.gob.pe/microdatos/Detalle_Encuesta.asp?CU=19558&CodEncuesta=730&CodModulo=1590&NombreEncuesta=Registro+Nacional+de+Municipalidades+-+RENAMU&NombreModulo=Competencias+y+Funciones+de+la+Municipalidad)
-- Número de registros: El total de 1874 municipalidades distritales y provinciales del Perú
-- Limpieza:
-[Tabla limpia: módulo 1](https://docs.google.com/spreadsheets/d/1502uCzwvFc1kYTyf3hCIEn9ERAk3Bqb4/edit?usp=sharing&ouid=106305285872469110916&rtpof=true&sd=true),
-[Tabla limpia: módulo 2](https://docs.google.com/spreadsheets/d/15-0RlFI206Gn2b4GhKf02wPAKG5DAB1a/edit?usp=sharing&ouid=106305285872469110916&rtpof=true&sd=true),
-[Tabla limpia: módulo 4](https://docs.google.com/spreadsheets/d/14uzGN9NlbUxCDVjidhDvmSrlXKRUrjNv/edit?usp=sharing&ouid=106305285872469110916&rtpof=true&sd=true),
-[Diccionario de datos](https://docs.google.com/spreadsheets/d/150IxhbslOilE_80mSjkCfu7En3vzXFXO/edit?usp=sharing&ouid=106305285872469110916&rtpof=true&sd=true)
+### 2024: Strategic planning with gender and cultural diversity approach
+#### _Client: Inter-American Development Bank_
+#### Summary: 
+The general project objective is to close gender and intercultural gaps on the strategic planning processes in all public entities in Perú. The government counterpart (National Center for Strategic Planning) have some tables about the how public entities register their planning procedures but the data avaiable was difficult to analyze due to its magnitud: it contains 4 tabs in excel, with more than 20,000 rows and 80 columns each. 
 
-#### Resultados:
-- [Presentación extendida de los hallazgos](https://docs.google.com/presentation/d/15B9vGfa4qRsFQCjUAbdC8mZ9UnpXeAc6/edit?usp=sharing&ouid=106305285872469110916&rtpof=true&sd=true),
-- [Informe detallado de los hallazgos](https://drive.google.com/file/d/14tWgj-NUiqFxhSTZHdzvWQJc05DTht1F/view?usp=sharing)
+#### What I did: 
+I helped cleaning the data avaiable on [Google colab using pandas](https://colab.research.google.com/drive/1MIXMwEJfp4uZFKoVvuXGFwXPd9eBnjvC?usp=sharing), on a three steps process:
+- Separate the four tabs into separate tables
+- Delete the columns that weren't of interest
+- Save the 4 new and clean tables on a CSV format
 
-#### Decisiones tomadas a partir de los hallazgos:
-Priorización para el diseño de nuevos servicios digitales en las áreas menos cubiertas por municipalidades: biblioteca (3.8%), licencia de edificación (9%), licencia de funcionamiento (19.4%) y personal (29.9%).
-
-#### Herramientas visuales: 
-Se elaboró un [dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGRkY2RhMWEtMWViNi00MWYwLWE1OTQtNmE0NGFiZTdlNjZkIiwidCI6IjM0YjQ4ZTRlLTI1MTktNDA2MC1hMDllLTViMDVkOTAxYTRkNyJ9) en Power Bi para poder consultar la información de manera sencilla.
-
-### Nombre del proyecto 2
-#### Skills involucrados: análisis descriptivo, visualización, etc
-#### Objetivo:
-#### Recolección de datos y consistencia:
-- Fuente
-- Número de registros:
-- Limpieza:
-    
-#### Resultados:
-
-#### Decisiones tomadas a partir de los hallazgos:
-
-#### Herramientas visuales:
+#### Tools & skills:
+##### Technical skills:
+- Data cleaning with Pandas (Python)
+##### Soft skills:
+- Communication with stakeholders to understand and empathize with their needs
