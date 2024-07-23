@@ -49,5 +49,6 @@ I helped cleaning the data avaiable on [Google colab using pandas](https://colab
 #### Tools & skills:
 ##### Technical skills:
 - Data cleaning with Pandas (Python)
+  
 ##### Soft skills:
 - Communication with stakeholders to understand and empathize with their needs
