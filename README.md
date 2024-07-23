@@ -1,8 +1,8 @@
 # Researcher & data scientist
 
 ## Education
-- M.S., Government and Public Policy | Pontifical Catholic University of Peru (_2021_)								       		 		
-- B.S., Political Science and Government | Pontifical Catholic University of Peru (_2014_)
+- M.S., Government and Public Policy | Pontifical Catholic University of Peru (2021)								       		 		
+- B.S., Political Science and Government | Pontifical Catholic University of Peru (2014)
 
 ## Projects
 ### 2023: Identifying Digitalization Opportunities in Peru's local government
