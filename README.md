@@ -1,11 +1,13 @@
 # Researcher & data scientist
 
+I am a political scientist by training but have always had a close connection with the world of data throughout my career in public management. Although I started working in 2015, it was in 2019 that I shifted my career towards user experience research for the design and innovation of digital platforms. I enjoy working with products and services that improve people's quality of life and whose growth is based on evidence and active listening to their users. I believe that data and research should serve to empathize with people and create innovative products that generate value, are relevant, and accessible.
+
 ## Education
 - M.S., Government and Public Policy | Pontifical Catholic University of Peru (2021)								       		 		
 - B.S., Political Science and Government | Pontifical Catholic University of Peru (2014)
 
-## Projects
-### 2023: Identifying Digitalization Opportunities in Peru's local government
+## Data & research projects
+### Identifying opportunities to digitalize products and services in Peru's local governments (2023)
 #### _Client: Secretary of Government and Digital Transformation_
 #### Summary: 
 The Secretary of Government and Digital Transformation is a public entity responsible for the country's digital transformation to improve citizen's lifes through innovative digital products and services. The objective of this project was to discover opportunities to design and develop new products based on evidence. 
@@ -35,7 +37,7 @@ In order to start this exploration I selected an avaiable and public dataset abo
 - Communication with stakeholders to understand their needs
 - Attention to detail when performing the analysis and finding patterns
 
-### 2024: Strategic planning with gender and cultural diversity approach
+### Strategic planning with gender and cultural diversity approach (2024)
 #### _Client: Inter-American Development Bank_
 #### Summary: 
 The general project objective is to close gender and intercultural gaps on the strategic planning processes in all public entities in Perú. The government counterpart (National Center for Strategic Planning) have some tables about the how public entities register their planning procedures but the data avaiable was difficult to analyze due to its magnitud: it contains 4 tabs in excel, with more than 20,000 rows and 80 columns each. 
