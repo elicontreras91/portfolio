@@ -11,7 +11,7 @@ Digital platform developed with the Ministry of Education to facilitate the digi
 ## Projects
 ### Identifying opportunities to digitalize products and services in Peru's local governments (2023)
 #### _Client: Secretary of Government and Digital Transformation_
-#### Role: UX Researcher
+##### Role: UX Researcher
 #### Summary: 
 The Secretary of Government and Digital Transformation is a public entity responsible for the country's digital transformation to improve citizen's lifes through innovative digital products and services. The objective of this project was to discover opportunities to design and develop new products based on evidence. 
 
@@ -109,7 +109,7 @@ The school enrollment process in Peru generated different problems for families:
    ![matricula](images/matricula.png)
 
 #### What I did: 
-As a researcher I was asked to identify the main pain points of users during the implementation of the pilot, for which I conducted in-depth interviews with school staff and parents. And I obtained user personas with needs, pain points and expectations with the enrollment process. This helped the development team to empathize with users and to adapt the platform to their needs. 
+As a researcher I was asked to identify the main pain points of users during the implementation of the pilot, for which I conducted in-depth interviews with school staff and parent, and created user personas that showed the needs, pain points and expectations with the enrollment process. This helped the development team to empathize with users and to adapt the platform to their needs. 
 
    ![userpesona1](images/userpersona1.png)
    ![userpesona2](images/userpersona2.png)
@@ -117,3 +117,6 @@ As a researcher I was asked to identify the main pain points of users during the
 #### Tools & skills:
 - In-depth interviews
 - User personas and user journey. 
+
+#### Important achievements:
+- This was my first project working with a digital platform, after many years working on public management and academic research. It was the project that helped me realized that I love working in product and innovation! 
