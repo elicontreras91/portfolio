@@ -1,4 +1,4 @@
-# Researcher & data scientist
+# Researcher & data analyst
 
 ### Main digital products I've worked in:
 #### Alert against racism (2024). Digital platform where citizens can report cases of racism and request legal and psychological assistance. I participated as a project manager at the final stage of the development.
