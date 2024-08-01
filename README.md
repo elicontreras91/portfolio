@@ -10,7 +10,7 @@ Digital platform that integrates all government information and services, simila
 #### Digital enrollment platform (2021)
 Digital platform developed with the Ministry of Education to facilitate the digital enrollment process in public schools.
 
-## Data & research projects
+## Research and data projects
 ### Identifying opportunities to digitalize products and services in Peru's local governments (2023)
 #### _Client: Secretary of Government and Digital Transformation_
 #### Summary: 
