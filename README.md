@@ -100,3 +100,20 @@ The objective of the research was to identify minimal elements that should be in
 - In-depth interviews
 - Card-sorting with Kard Sorting platform.
 
+### Improve parent's experiencies with the Digital enrollment platform (2019)
+#### _Client: Perú's Ministry of Education_
+##### Roles: UX researcher
+#### Summary: 
+The school enrollment process in Peru generated different problems for families: not knowing the number of vacancies available, requirements that were difficult to obtain, long queues because the process was in-person, among others. To solve this problem, the Ministry of education developed a digital platform that would allow parents know the available vacancies, apply to more than one school and have the same possibility of getting an spot at their prefered school. All of this being remote, through any digital device.
+
+   ![matricula](images/matricula.png)
+
+#### What I did: 
+As a researcher I was asked to identify the main pain points of users during the implementation of the pilot, for which I conducted in-depth interviews with school staff and parents. And I obtained user personas with needs, pain points and expectations with the enrollment process. This helped the development team to empathize with users and to adapt the platform to their needs. 
+
+   ![userpesona1](images/userpersona1.png)
+   ![userpesona2](images/userpersona2.png)
+
+#### Tools & skills:
+- In-depth interviews
+- User personas and user journey. 
