@@ -1,8 +1,6 @@
 # Researcher & data analyst
 
 ### Main digital products I've worked in:
-#### Alert against racism (2024):
-Digital platform where citizens can report cases of racism and request legal and psychological assistance. I participated as a project manager at the final stage of the development.
 #### Digital request platform of the Peruvian State, Facilita Perú (2021-2023)
 Created at the beginning of the pandemic to address a significant need in public entities: the digitization of their procedures and services. Facilita primarily focuses on rural public entities with low connectivity.
 #### Gob.pe (2022-2023)
