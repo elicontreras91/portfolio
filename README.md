@@ -42,11 +42,11 @@ In order to start this exploration I selected an avaiable and public dataset abo
 ### Strategic planning with gender and cultural diversity approach (2024)
 #### _Client: Inter-American Development Bank_
 #### Summary: 
-The general project objective is to close gender and intercultural gaps on the strategic planning processes in all public entities in Perú. The government counterpart (National Center for Strategic Planning) have some tables about the how public entities register their planning procedures but the data avaiable was difficult to analyze due to its magnitud: it contains 4 tabs in excel, with more than 20,000 rows and 80 columns each. 
+The general project objective is to close gender and intercultural gaps on the strategic planning processes in all public entities in Perú. The government counterpart (National Center for Strategic Planning) have some tables about the how public entities register their planning procedures but the data avaiable was difficult to analyze due to its magnitud: it contains 4 sheets in excel, with more than 20,000 rows and 80 columns each. 
 
 #### What I did: 
 I helped cleaning the data avaiable on [Google colab using pandas](https://colab.research.google.com/drive/1MIXMwEJfp4uZFKoVvuXGFwXPd9eBnjvC?usp=sharing), on a three steps process:
-- Separate the four tabs into separate tables
+- Separate the four sheets into separate tables
 - Delete the columns that weren't of interest
 - Save the 4 new and clean tables on a CSV format
 
