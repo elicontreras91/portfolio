@@ -1,10 +1,14 @@
 # Researcher & data scientist
 
-I am a political scientist by training but have always had a close connection with the world of data throughout my career in public management. Although I started working in 2015, it was in 2019 that I shifted my career towards user experience research for the design and innovation of digital platforms. I enjoy working with products and services that improve people's quality of life and whose growth is based on evidence and active listening to their users. I believe that data and research should serve to empathize with people and create innovative products that generate value, are relevant, and accessible.
-
 ## Education
 - M.S., Government and Public Policy | Pontifical Catholic University of Peru (2021)								       		 		
 - B.S., Political Science and Government | Pontifical Catholic University of Peru (2014)
+
+- ## Main digital products I've worked in:
+- Alert against racism (2024) | Digital platform where citizens can report cases of racism and request legal and psychological assistance. I participated as a project manager at the final stage of the development
+- Digital request platform of the Peruvian State - Facilita Perú (facilita.gob.pe) | Created at the beginning of the pandemic to address a significant need in public entities: the digitization of their procedures and services. Facilita primarily focuses on rural public entities with low connectivity.
+- Gob.pe | Digital platform that integrates all government information and services, similar to Gov.uk.
+- Digital enrollment platform (plataforma.matriculadigital.pe) | A platform developed with the Ministry of Education to facilitate the digital enrollment process in public schools
 
 ## Data & research projects
 ### Identifying opportunities to digitalize products and services in Peru's local governments (2023)
