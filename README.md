@@ -1,10 +1,6 @@
 # Researcher & data scientist
 
-## Education
-- M.S., Government and Public Policy | Pontifical Catholic University of Peru (2021)								       		 		
-- B.S., Political Science and Government | Pontifical Catholic University of Peru (2014)
-
-- ## Main digital products I've worked in:
+## Main digital products I've worked in:
 Alert against racism (2024) | Digital platform where citizens can report cases of racism and request legal and psychological assistance. I participated as a project manager at the final stage of the development
 
 Digital request platform of the Peruvian State - Facilita Perú (facilita.gob.pe) | Created at the beginning of the pandemic to address a significant need in public entities: the digitization of their procedures and services. Facilita primarily focuses on rural public entities with low connectivity.
