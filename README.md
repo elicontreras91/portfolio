@@ -1,14 +1,10 @@
 # Researcher & data scientist
 
-#### Main digital products I've worked in:
-##### Alert against racism (2024)
-- Digital platform where citizens can report cases of racism and request legal and psychological assistance. I participated as a project manager at the final stage of the development
-##### Digital request platform of the Peruvian State Facilita Perú (facilita.gob.pe)
-- Created at the beginning of the pandemic to address a significant need in public entities: the digitization of their procedures and services. Facilita primarily focuses on rural public entities with low connectivity.
-##### Gob.pe
-- Digital platform that integrates all government information and services, similar to Gov.uk.
-#### Digital enrollment platform (plataforma.matriculadigital.pe)
-- Digital platform developed with the Ministry of Education to facilitate the digital enrollment process in public schools
+### Main digital products I've worked in:
+#### Alert against racism (2024). Digital platform where citizens can report cases of racism and request legal and psychological assistance. I participated as a project manager at the final stage of the development.
+#### Digital request platform of the Peruvian State, Facilita Perú (2021-2023). Created at the beginning of the pandemic to address a significant need in public entities: the digitization of their procedures and services. Facilita primarily focuses on rural public entities with low connectivity.
+#### Gob.pe (2022-2023). Digital platform that integrates all government information and services, similar to Gov.uk.
+#### Digital enrollment platform (2021). Digital platform developed with the Ministry of Education to facilitate the digital enrollment process in public schools.
 
 
 ## Data & research projects
