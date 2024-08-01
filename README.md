@@ -1,6 +1,6 @@
 # Researcher & data analyst
 
-### Main digital products I've worked in:
+## Main digital products I've worked in:
 #### Digital request platform of the Peruvian State, Facilita Perú (2021-2023)
 Created at the beginning of the pandemic to address a significant need in public entities: the digitization of their procedures and services. Facilita primarily focuses on rural public entities with low connectivity.
 #### Gob.pe (2022-2023)
