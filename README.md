@@ -1,14 +1,7 @@
-# Researcher & data analyst
+# Quantitative UX researcher
 
-Contact: e.contrerasmarin@gmail.com
+Hi, I'm Elizabeth, I'm a social scientist by training but have always had a close connection with the world of data and research throughout my career in public management. Although I started working in 2015, it was in 2019 that I shifted my career towards user experience research for the design and innovation of digital platforms. Even though I lean more towards a quantitative approach, I really enjoy using qualitative and mixed methods to get a deeper understanding of users and businesses.
 
-## Main digital products I've worked in:
-#### Digital request platform of the Peruvian State, Facilita Perú (2021-2023)
-Created at the beginning of the pandemic to address a significant need in public entities: the digitization of their procedures and services. Facilita primarily focuses on rural public entities with low connectivity.
-#### Gob.pe (2021-2023)
-Digital platform that integrates all government information and services, similar to Gov.uk.
-#### Digital enrollment platform (2019-2020)
-Digital platform developed with the Ministry of Education to facilitate the digital enrollment process in public schools.
 
 ## Projects
 ### Identifying opportunities to digitalize products and services in Peru's local governments (2023)
