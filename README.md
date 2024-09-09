@@ -7,7 +7,7 @@ Hi, I'm Elizabeth, I'm a social scientist by training but have always had a clos
 ## Projects
 ### Identifying opportunities to digitalize products and services in Peru's local governments (2023)
 #### _Client: Secretary of Government and Digital Transformation_
-##### Role: UX Researcher
+##### Role: UX Researcher (mixed methods)
 #### Summary: 
 The Secretary of Government and Digital Transformation is a public entity responsible for the country's digital transformation to improve citizen's lifes through innovative digital products and services. The objective of this project was to discover opportunities to design and develop new products based on evidence. 
 
