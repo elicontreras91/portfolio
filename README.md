@@ -1,6 +1,6 @@
-# Quantitative UX researcher
+# Quantitative design researcher
 
-Hi, I'm Elizabeth, I'm a social scientist by training but have always had a close connection with the world of data and research throughout my career in public management. Although I started working in 2015, it was in 2019 that I shifted my career towards user experience research for the design and innovation of digital platforms. Even though I lean more towards a quantitative approach, I really enjoy using qualitative and mixed methods to get a deeper understanding of users and businesses.
+Hi, I'm Elizabeth, I'm a social scientist by training but have always had a close connection with the world of data and research throughout my career in public management. Although I started working in 2015, it was in 2019 that I shifted my career towards design and user experience research for digital products and services. Even though I lean more towards a quantitative approach, I really enjoy using qualitative and mixed methods to get a deeper understanding of users and businesses.
 - Let's connect: e.contrerasmarin@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/elizabeth-contreras-m/)
 
