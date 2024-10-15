@@ -7,7 +7,7 @@ Hi, I'm Elizabeth, I'm a social scientist by training but have always had a clos
 ## Projects
 ### Identifying opportunities to digitalize products and services in Peru's local governments (2023)
 #### _Client: Secretary of Government and Digital Transformation_
-##### Role: UX Researcher (mixed methods)
+##### Role: Senior design researcher (mixed methods)
 #### Summary: 
 The Secretary of Government and Digital Transformation is a public entity responsible for the country's digital transformation to improve citizen's lifes through innovative digital products and services. The objective of this project was to discover opportunities to design and develop new products based on evidence. 
 
@@ -51,7 +51,7 @@ I helped cleaning the data avaiable on [Google colab using pandas](https://colab
 
 ### Service design for the incorporation of public entities into the Government's electronic mailbox "Casilla única electrónica" (2023)
 #### _Client: Secretary of Government and Digital Transformation_
-##### Roles: UX researcher & service designer
+##### Roles: Senior design researcher & service designer
 #### Summary: 
 "Casilla única electrónica" is digital product aimed at integrating all the documents and results of procedures carried out by Peruvian citizens into a single digital place. To achieve this, it is necessary for each public entity to integrate its internal management systems to Casilla única electrónica, so that the user experience is unified and integrated. But the integration process was difficult and painful because it was too technical and difficult to understand for the majority of public servants.
 
@@ -67,7 +67,7 @@ The objective of the research project was to identify how entities could integra
 
 ### Identification of minimum elements for the development of a pre-designed template for the Facilita platform's document reception desk (mesa de partes) (2021)
 #### _Client: Secretary of Government and Digital Transformation_
-##### Roles: UX researcher
+##### Roles: Design researcher
 #### Summary: 
 Facilita is the digital request platform of the Peruvian State, created to address a significant need in public entities during pandemic: the digitization of their procedures and services, mainfly for entities that didn't have the financial resources to invest on digital infraestructure. The minimal viable product (MVP) was defined as a digital form, similar to Google forms, where public servants could create any digital form to keep providing their services to citizens. Over time, it became necessary for user entities to have pre-designed templates for the most frequently requested services. One of such service is the document reception desk (mesa de partes)
    
@@ -98,7 +98,7 @@ The objective of the research was to identify minimal elements that should be in
 
 ### Improve parent's experiencies with the Digital enrollment platform (2019)
 #### _Client: Perú's Ministry of Education_
-##### Roles: UX researcher
+##### Roles: Design researcher
 #### Summary: 
 The school enrollment process in Peru generated different problems for families: not knowing the number of vacancies available, requirements that were difficult to obtain, long queues because the process was in-person, among others. To solve this problem, the Ministry of education developed a digital platform that would allow parents know the available vacancies, apply to more than one school and have the same possibility of getting an spot at their prefered school. All of this being remote, through any digital device.
 
